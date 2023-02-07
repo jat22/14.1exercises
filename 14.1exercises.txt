@@ -1,0 +1,29 @@
+#1
+Hypertext Transfer Protocol - protocol for sharing info over the www
+
+#2
+URL - Universal resoure locator - translation of IP address that directs where the info is
+
+#3
+DNS = Domain Name System - translates URL into the IP address so info can be found
+
+#4
+query string - data that is part of a GET request; it is added to URL and indicated by a ? followed by key:value, seperated by &
+
+#5
+GET and POST
+GET does not modify data on the server
+POST modifies data on the server
+
+#6
+HTTP request - requests info or an action from the server
+
+#7
+HTTP Response - what is sent back from the server
+
+#8
+HTTP header has info about the request like language, type of request, response code
+
+#9
+a GET request is sent and the html file is sent back; then requests are sent for the other resources needed in that file.
+The page is rendered for the user to see.
